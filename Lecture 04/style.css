@@ -1,0 +1,26 @@
+.first
+{
+    border: 1px solid red;
+    width: 350px;
+    height: 600px;
+    float: left;
+    text-align: center;
+    margin-left: 2cm;
+}
+.second
+{
+    border: 1px solid green; 
+    width: 350px; 
+    height: 600px;
+    float: left;
+    margin:0 5cm;
+    text-align: center;
+}
+.third
+{
+    border: 1px solid blue; 
+    width: 350px; 
+    height: 600px;
+    float: left;
+    text-align: center;
+}
