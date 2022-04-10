@@ -1,6 +1,5 @@
 function Init(){
   arrLeft = [];
-  arrRight = [];
 
   arrLeft.push("🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥");
   arrLeft.push("🟨🟨🟨🟨🟨🟨🟨🟨🟨");
